@@ -7,7 +7,7 @@ lock = threading.Lock()
 
 class Camera:
     def __init__(self):
-        #カメラの初期化と設定とスタート
+        # Initialize and set up the camera
         self.picam2 = Picamera2()
         self.height = 480
         self.width = 480
@@ -20,51 +20,50 @@ class Camera:
         )
         self.picam2.configure(self.config)
 
-        # 蛍光ピンクのHSV範囲を定義
-        self.lower_pink = np.array([140, 150, 50])  # H: 約140度から
-        self.upper_pink = np.array([180, 255, 255])  # H: 約170度まで
-        #カメラをスタート
+        # Define the HSV range for fluorescent pink
+        self.lower_pink = np.array([140, 150, 50])  # H: approximately 140 degrees to
+        self.upper_pink = np.array([180, 255, 255])  # H: approximately 170 degrees to
+        # Start the camera
         self.picam2.start()
 
     def take_pic(self):
         image = self.picam2.capture_array()
         return image
 
-    
     def show_video(self, image):
         cv2.imshow("Live", image)
         cv2.waitKey(1)
-    
+
     def find_ball(self, image):
-        # HSV色空間に変換
+        # Convert to HSV color space
         image_hsv = cv2.cvtColor(image, cv2.COLOR_BGR2HSV)
-        # 色範囲に基づくマスクを作成
+        # Create a mask based on the color range
         mask = cv2.inRange(image_hsv, self.lower_pink, self.upper_pink)
-        # 輪郭を見つける
+        # Find contours
         contours, _ = cv2.findContours(mask, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
-        
+
         if contours:
-            # 最大の輪郭を見つける
+            # Find the largest contour
             largest_contour = max(contours, key=cv2.contourArea)
-            # 最小外接円を取得
+            # Get the minimum enclosing circle
             (x, y), radius = cv2.minEnclosingCircle(largest_contour)
-            area = cv2.contourArea(largest_contour)  # 面積を計算
-            if area > 200:  # ノイズを無視するための閾値
-                # 円を画像に描画
+            area = cv2.contourArea(largest_contour)  # Calculate the area
+            if area > 200:  # Ignore noise with a threshold value
+                # Draw a circle on the image
                 cv2.circle(image, (int(x), int(y)), int(radius), (0, 255, 0), 2)
                 self.show_video(image)
                 d = radius*2
                 h = 10000/d
-                # 中心を修正
+                # Correct the center
                 x -= self.height / 2
                 y -= self.width / 2
                 x, y = -y, x
-                return int(x), int(y), int(area)  # 画像と座標、面積を返す
+                return int(x), int(y), int(area)  # Return the image and coordinates, area
         self.show_video(image)
-        return -1, -1, 0  # ボールが検出されなかった場合
-
+        return -1, -1, 0  # Return when no ball is detected
 
     def clean_up_cam(self):
         self.picam2.stop()
         self.picam2.close()
         cv2.destroyAllWindows()
+		
