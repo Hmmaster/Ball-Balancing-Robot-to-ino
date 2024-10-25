@@ -1,0 +1,547 @@
+2024-07-04 13:31:21 [INFO] AnycubicPhotonWorkshop start!
+2024-07-04 13:31:21 [INFO] argc:  2
+2024-07-04 13:31:21 [WARN] "C:/Program Files/AnycubicPhotonWorkshop"
+2024-07-04 13:31:21 [WARN] Successfully init crashpad
+2024-07-04 13:31:21 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 55 Regular L3" '
+2024-07-04 13:31:21 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 95 ExtraBold" '
+2024-07-04 13:31:21 [INFO] ctk manager plugins:  "C:/Program Files/AnycubicPhotonWorkshop/plugins/"
+2024-07-04 13:31:21 [INFO] Load plugin org.commontk.eventadmin success.
+2024-07-04 13:31:21 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/splashwindow.dll"
+2024-07-04 13:31:21 [INFO] Install Plugin Success!
+2024-07-04 13:31:21 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 55 Regular L3" '
+2024-07-04 13:31:21 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 95 ExtraBold" '
+2024-07-04 13:31:22 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/printer.dll"
+2024-07-04 13:31:22 [INFO] Install Plugin Success!
+2024-07-04 13:31:22 [WARN] loadMachineResin currentPrinter(Anycubic Photon Mono X 6Ks) init success.
+2024-07-04 13:31:22 [INFO] loadMachineParamRange is success.
+2024-07-04 13:31:22 [INFO] loadMachineResinType is success.
+2024-07-04 13:31:22 [INFO] loadMachineResinName is success.
+2024-07-04 13:31:22 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/mainwindow.dll"
+2024-07-04 13:31:22 [INFO] Install Plugin Success!
+2024-07-04 13:31:22 [INFO] "current server is testserver. 0"
+2024-07-04 13:31:22 [INFO] "environment_url is https://workbentch.s3.us-east-2.amazonaws.com/workshop/environment.ini"
+2024-07-04 13:31:22 [INFO] QmlFactory 0.015 s
+2024-07-04 13:31:22 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/autoupdater.dll"
+2024-07-04 13:31:22 [INFO] Install Plugin Success!
+2024-07-04 13:31:22 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/gareport.dll"
+2024-07-04 13:31:22 [INFO] Install Plugin Success!
+2024-07-04 13:31:22 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/accloud.dll"
+2024-07-04 13:31:22 [INFO] Install Plugin Success!
+2024-07-04 13:31:22 [WARN] ACCloudDataModel::ACCloudDataModel, importTempPath = C:/Users/taise/AppData/Local/Temp/ac_cloud/, dowloadPath = C:/Users/taise/Downloads/ac_cloud/
+2024-07-04 13:31:22 [WARN] CountriesDataModel::setCurrCountryIdn, newCurrCountryIdn = AU
+2024-07-04 13:31:22 [WARN] void __cdecl ACCloudNetRequest::getCountries(void)
+2024-07-04 13:31:22 [WARN] void __cdecl ACCloudNetRequest::getPrintCtrlCodeReasons(void)
+2024-07-04 13:31:22 [WARN] ACCloudManager::ACCloudManager, cloud model, build_time = 2024-02-28 17:54:44, git_brance = release/pws3.3, git_hash = d70c34a, git_commit = 2024-02-28
+2024-07-04 13:31:22 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/facegen.dll"
+2024-07-04 13:31:22 [INFO] Install Plugin Success!
+2024-07-04 13:31:22 [WARN] Translation::changedSystemLanguage, language = 0
+2024-07-04 13:31:22 [WARN] register  GizmoController
+2024-07-04 13:31:22 [WARN] enableMenuShortcut menushort cut: 0
+2024-07-04 13:31:22 [INFO] uiState:  false
+2024-07-04 13:31:22 [WARN] enableMenuShortcut menushort cut: 0
+2024-07-04 13:31:22 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:22 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:22 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:22 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:22 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:22 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:22 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:22 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:22 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:22 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:22 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:22 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:22 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:22 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:22 [WARN] xChanged 1
+2024-07-04 13:31:22 [INFO] event:  "splash_window_visible" data:  QVariant(bool, false) extentionData:  QVariant(Invalid)
+2024-07-04 13:31:22 [INFO] event:  "main_load" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2024-07-04 13:31:22 [INFO] event:  "main_language_changed" data:  QVariant(int, 0) extentionData:  QVariant(Invalid)
+2024-07-04 13:31:22 [INFO] uiState:  true
+2024-07-04 13:31:23 [WARN] creating renderer
+2024-07-04 13:31:23 [WARN] printer valid --:  97.92 61.2
+2024-07-04 13:31:23 [WARN] printer build --:  97.92 61.2
+2024-07-04 13:31:23 [WARN] deltaX -- :  0
+2024-07-04 13:31:23 [WARN] deltaY -- :  0
+2024-07-04 13:31:23 [WARN] machine boarder width 2-------------------- 
+2024-07-04 13:31:23 [WARN] create planar shadow node
+2024-07-04 13:31:23 [WARN] loadGizmoRotationHead OK 576
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "" ,name =  "NodeVisitor"
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "" ,name =  "\"CollectedCoordinateSystemNodesVisitor\""
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "" ,name =  "ComputeBoundsVisitor"
+2024-07-04 13:31:23 [INFO]  camera_manipulator::home
+2024-07-04 13:31:23 [INFO]  camera_manipulator::home/ComputeBound
+2024-07-04 13:31:23 [INFO]  camera_manipulator::home
+2024-07-04 13:31:23 [INFO]  camera_manipulator::home/ComputeBound
+2024-07-04 13:31:23 [INFO]  camera_manipulator::home/BoundingSphere
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:23 [INFO]  camera_manipulator::home/udpate_view
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "" ,name =  "GLObjectsVisitor"
+2024-07-04 13:31:23 [WARN] GL Verison:  0x7fff7f5a1eb0
+2024-07-04 13:31:23 [WARN] GL Renderer:  0x18b43afe3d0
+2024-07-04 13:31:23 [WARN] compile shader program ok
+2024-07-04 13:31:23 [WARN] compile shader program ok
+2024-07-04 13:31:23 [WARN] compile shader program ok
+2024-07-04 13:31:23 [WARN] AnyGizmos::Im3d_Init      LoadCompileShader Ok
+2024-07-04 13:31:23 [WARN] AnyGizmos::Im3d_Init   VAO release Ok
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:23 [WARN] void __cdecl ACCloudNetRequest::autoLogin(enum UserInfo::LoginMethod)
+2024-07-04 13:31:23 [WARN] void __cdecl ACCloudNetRequest::login(const class QString &,const class QString &,const class QString &,const class QString &,enum UserInfo::LoginMethod)
+username = taisei1693@gmail.com, password = Taisei169300, country = AU, loginMethod = 0, accountType = 2
+2024-07-04 13:31:23 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:23 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:23 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:23 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:23 [INFO] event:  "updater_init_compeleted" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:23 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:23 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:23 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct ReasonResponse *,unsigned int)
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:23 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:23 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:23 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:24 [WARN] void __cdecl ACCloudNetRequest::getCountries(void)
+2024-07-04 13:31:24 [WARN] void __cdecl ACCloudNetRequest::getPrintCtrlCodeReasons(void)
+2024-07-04 13:31:24 [INFO] event:  "accloud_start_init" data:  QVariant(int, 0) extentionData:  QVariant(int, 0)
+2024-07-04 13:31:24 [INFO] parseImportFiles model files: C:\Users\taise\OneDrive - Hiroshima University\デスクトップ\1_3Base_step\Body1_3.step
+2024-07-04 13:31:24 [INFO] parseImportFiles model files: C:\Users\taise\OneDrive - Hiroshima University\デスクトップ\1_3Base_step\Body1_3.step
+2024-07-04 13:31:24 [WARN]  - 1 ImportFilesDialog, importModelFiles file = C:\Users\taise\OneDrive - Hiroshima University\デスクトップ\1_3Base_step\Body1_3.step, modelQualityChecked = true
+2024-07-04 13:31:24 [INFO] "start check autoUpdater!"
+2024-07-04 13:31:24 [INFO] event:  "updater_check" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2024-07-04 13:31:24 [WARN] void __cdecl PrintersDataModel::onReasonResponse(const struct ReasonResponse *,int)
+count = 212
+2024-07-04 13:31:24 [WARN] -slot_closeGizmoWhenLoadModel
+2024-07-04 13:31:24 [INFO] send post data success!
+2024-07-04 13:31:24 [WARN] void __cdecl ACCloudNetRequest::onEvent(struct NetworkRequest::EventData)
+, event.event = 13, status = 0, code = 1, msg = Login successful
+2024-07-04 13:31:24 [WARN] void __cdecl ACCloudNetRequest::onLoginResult(void)
+nickName = taisei
+2024-07-04 13:31:24 [WARN] void __cdecl ACCloudNetRequest::getFileList(const struct FileListRequest *)
+page = 1, limit = 50, fileType = 0, orderby = 1, machine_type = 0, loginStatus = 1
+2024-07-04 13:31:24 [WARN] void __cdecl MyFileListModel::onLoginResult(void)
+2024-07-04 13:31:24 [WARN] void __cdecl PrintersDataModel::onLoginResult(void)
+2024-07-04 13:31:24 [WARN] void __cdecl PrintersDataModel::setupCloudEvent(void)
+m_networkStatus = 1
+2024-07-04 13:31:24 [WARN] void __cdecl ACCloudNetRequest::setupCloudEvent(void), -- 1
+2024-07-04 13:31:24 [WARN] void __cdecl ACCloudNetRequest::setupCloudEvent(void), -- 2
+2024-07-04 13:31:24 [WARN] void __cdecl ACCloudNetRequest::getMessageCount(void)
+2024-07-04 13:31:24 [WARN] void __cdecl ACCloudNetRequest::getMessageList(int,int,int)
+msgtype = 1, pageIndex = 1, pageSize = 1
+2024-07-04 13:31:24 [WARN] void __cdecl CloudMsgNotifyListModel::onLoginResult(void)
+2024-07-04 13:31:24 [WARN] void __cdecl ACCloudGaSupport::doReportLoginResult(const class QString &,const class QString &,const bool &,const class QString &)
+loginType = auto_login, loginMethod = phone, isSuccess = 1, failReason = Login successful
+2024-07-04 13:31:24 [WARN] void __cdecl ACCloudManager::onLoginResult(void), nickName = taisei, userId = 24849, doReportLoginResult finish
+2024-07-04 13:31:24 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:24 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:24 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:24 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:24 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:24 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:24 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:24 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:24 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:24 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:24 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:24 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:24 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:24 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:24 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:24 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:24 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:24 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:24 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:24 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:24 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:24 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:24 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:24 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:24 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:24 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:24 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:24 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:24 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:24 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:24 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:24 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:24 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:24 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:24 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:24 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:24 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct MessageListResponse *,unsigned int,unsigned int,unsigned int,unsigned int)
+2024-07-04 13:31:24 [WARN] void __cdecl ACCloudNetRequest::onMessageListResponse(const struct MessageListResponse *,int,int,int,int)
+count = 0, pageIndex = 1, pageSize = 50, countAll = 0
+2024-07-04 13:31:24 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct MessageCountResponse *,unsigned int)
+2024-07-04 13:31:25 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:25 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:25 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct ReasonResponse *,unsigned int)
+2024-07-04 13:31:25 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:25 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:25 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:25 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:25 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:25 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:25 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:25 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:25 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:25 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:25 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:25 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:25 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:25 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:25 [INFO] uiState:  false
+2024-07-04 13:31:25 [WARN] enableMenuShortcut menushort cut: 8
+2024-07-04 13:31:25 [INFO] sendData:  "{\n    \"appName\": \"AnycubicPhotonWorkshop_V3.3.0\",\n    \"appVersion\": \"v3.3.0\",\n    \"business\": \"\",\n    \"city\": \"0\",\n    \"country\": \"\xE6\x97\xA5\xE6\x9C\xAC\",\n    \"elementContent\": \"\",\n    \"elementType\": \"\",\n    \"eventName\": \"AppStart\",\n    \"function\": \"\",\n    \"isOverseasVersion\": true,\n    \"module\": \"\",\n    \"pcId\": \"5f7f443e9430aaa395dafdf961697666\",\n    \"printerType\": \"\",\n    \"province\": \"0\",\n    \"timestamp\": 1720067485,\n    \"title\": \"\",\n    \"userId\": 24849\n}\n"
+2024-07-04 13:31:25 [INFO] sendData:  "{\n    \"appName\": \"AnycubicPhotonWorkshop_V3.3.0\",\n    \"appVersion\": \"v3.3.0\",\n    \"business\": \"\",\n    \"city\": \"0\",\n    \"country\": \"\xE6\x97\xA5\xE6\x9C\xAC\",\n    \"elementContent\": \"\",\n    \"elementType\": \"\",\n    \"eventName\": \"LoginResult\",\n    \"function\": \"\",\n    \"isOverseasVersion\": true,\n    \"module\": \"\",\n    \"pcId\": \"5f7f443e9430aaa395dafdf961697666\",\n    \"printerType\": \"\",\n    \"province\": \"0\",\n    \"timestamp\": 1720067485,\n    \"title\": \"\",\n    \"userId\": 24849\n}\n"
+2024-07-04 13:31:25 [WARN] void __cdecl PrinterEventHandlerCallback::event(const struct Anycubic::Event *)
+2024-07-04 13:31:25 [INFO] uiState:  true
+2024-07-04 13:31:25 [WARN] enableMenuShortcut menushort cut: 0
+2024-07-04 13:31:25 [INFO] "doReportImportModelResult!"
+2024-07-04 13:31:25 [INFO] event:  "ga_report" data:  QVariant(QByteArray, "{\n    \"business\": \"model_prepare\",\n    \"elementContent\": \"Import Files\",\n    \"elementType\": \"BUTTON\",\n    \"event\": \"ImportModelResult\",\n    \"function\": \"import_model\",\n    \"module\": \"menu_bar\",\n    \"printerType\": \"LCD\",\n    \"title\": \"\"\n}\n") extentionData:  QVariant(QByteArray, "{\n    \"importType\": \"4\",\n    \"modelInformation\": [\n        {\n            \"fileName\": \"Body1_3\",\n            \"fileSize\": 569783,\n            \"fileType\": \"step\",\n            \"isSuccess\": 0\n        }\n    ],\n    \"numberOfModel\": 1\n}\n")
+2024-07-04 13:31:25 [WARN] CloudMsgNotifyListModel::onMessageListResponse, count = 0, pageIndex = 1, pageSize = 50, countAll = 0
+2024-07-04 13:31:25 [WARN] void __cdecl CloudMsgNotifyListModel::onMessageCountResponse(const struct MessageCountResponse *,int), count = 3
+2024-07-04 13:31:25 [WARN] gizmo emit sceneModelChanged
+2024-07-04 13:31:25 [WARN] MyFileListModel::onFileLists, pageIndex = 1, pageSize = 50, countAll = 0, size = 0
+2024-07-04 13:31:25 [WARN] void __cdecl PrintersDataModel::onReasonResponse(const struct ReasonResponse *,int)
+count = 212
+2024-07-04 13:31:25 [WARN] void __cdecl PrintersDataModel::onPrinterCommonEvent(const struct Anycubic::Event *)
+code = 0, action = 500, status = 0, errMsg = 
+2024-07-04 13:31:25 [WARN] void __cdecl PrintersDataModel::getListPrinter(void)
+m_printersTableStatus = 0, m_cloudNetRequest->userInfo()->loginStatus() = 0
+2024-07-04 13:31:25 [WARN] void __cdecl ACCloudNetRequest::getListPrinter(void)
+LOGIN_STATUS = 0
+2024-07-04 13:31:25 [INFO] uiState:  false
+2024-07-04 13:31:25 [WARN] enableMenuShortcut menushort cut: 8
+2024-07-04 13:31:25 [INFO] uiState:  true
+2024-07-04 13:31:25 [WARN] enableMenuShortcut menushort cut: 0
+2024-07-04 13:31:25 [INFO] "doReadMachineLcd setMachine Anycubic Photon Mono X 6Ks"
+2024-07-04 13:31:25 [INFO] sendData:  "{\n    \"appName\": \"AnycubicPhotonWorkshop_V3.3.0\",\n    \"appVersion\": \"v3.3.0\",\n    \"business\": \"\",\n    \"city\": \"0\",\n    \"country\": \"\xE6\x97\xA5\xE6\x9C\xAC\",\n    \"elementContent\": \"\",\n    \"elementType\": \"\",\n    \"eventName\": \"ImportModelResult\",\n    \"function\": \"\",\n    \"isOverseasVersion\": true,\n    \"module\": \"\",\n    \"pcId\": \"5f7f443e9430aaa395dafdf961697666\",\n    \"printerType\": \"\",\n    \"province\": \"0\",\n    \"timestamp\": 1720067485,\n    \"title\": \"\",\n    \"userId\": 24849\n}\n"
+2024-07-04 13:31:25 [WARN] ctrl_select IS_PROPERTY_SELECTED1  true 1
+2024-07-04 13:31:25 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2024-07-04 13:31:25 [INFO] get_model_height() osg_model_group
+2024-07-04 13:31:25 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2024-07-04 13:31:25 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2024-07-04 13:31:26 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:26 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:26 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:26 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:26 [INFO] uiState:  false
+2024-07-04 13:31:26 [INFO] send post data success!
+2024-07-04 13:31:26 [WARN] void __cdecl PrintersDataModel::onPrinterListEvent(void *,int,void *)
+count = 0
+2024-07-04 13:31:26 [INFO] send post data success!
+2024-07-04 13:31:26 [INFO] send post data success!
+2024-07-04 13:31:27 [INFO] uiState:  true
+2024-07-04 13:31:28 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:28 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:28 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:28 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:28 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:28 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:28 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:28 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:28 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:28 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:28 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:28 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:28 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:28 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:28 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:28 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:28 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:28 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:28 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:28 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:28 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:28 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:28 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:28 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:28 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:28 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:28 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:28 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] ComputeConditionNodeVisitor::apply(group):  "osg_model_group" nodeName =  "scene_model_root"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:29 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:30 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:30 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:30 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:30 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:30 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:30 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:30 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:30 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:30 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:30 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:30 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:30 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:30 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:30 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:30 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:30 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:30 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:30 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:31 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:31 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:31 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:31 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:31 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:31 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:31 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:31 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:31 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:31 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:31 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:31 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:31 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:31 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:31 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:31 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:31 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:31 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:31 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:31 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:31 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:31 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:31 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:31 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:32 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:32 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:32 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:32 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:32 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:32 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:32 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:32 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:32 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:32 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:32 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:32 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:32 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:32 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:32 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:32 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:32 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:32 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:32 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:32 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:32 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:33 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:34 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:35 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:35 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:35 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:35 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:35 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:35 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:35 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:35 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:35 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:35 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:35 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:35 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:35 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:35 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:35 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:35 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:35 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:35 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:35 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:35 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:35 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:35 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:35 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:35 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:35 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:36 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:37 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:37 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:37 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:37 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:37 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:37 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:37 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:37 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:37 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:37 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:37 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:37 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:37 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:37 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:37 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:37 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:37 [INFO] osg_scene_root::traverse nv_class =  "CollectMatchGeodeVisitor" ,name =  "NodeVisitor"
+2024-07-04 13:31:38 [INFO] scene modifyed:  true
+2024-07-04 13:31:38 [WARN] QFSFileEngine::open: No file name specified
+2024-07-04 13:31:38 [WARN] Cannot open file '', because: No file name specified
+2024-07-04 13:31:38 [INFO] uiState:  false
+2024-07-04 13:31:39 [INFO] uiState:  true
+2024-07-04 13:31:39 [INFO] save support file is success!
+2024-07-04 13:31:41 [INFO] AnycubicPhotonWorkshop end!
+2024-07-04 13:31:41 [WARN] QThreadStorage: Thread 0x18b41000480 exited after QThreadStorage 7 destroyed
